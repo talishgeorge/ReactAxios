@@ -86,6 +86,8 @@ const Employees = () => {
       <div className="text-success">{success}</div>
       {addFlag ? (
         <form>
+          {/*   1.2222.
+          2.22222 */}
           EmpName: {""}
           <input
             type="text"
